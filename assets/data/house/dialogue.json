@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"portrait": "dave",
+			"expression": "normal",
+			"text": "Few, man. You beat my week?",
+			"boxState": "normal",
+			"speed": 0.05
+		},
+        {
+			"portrait": "dave",
+			"expression": "normal",
+			"text": "Welp, you're not worth my time. You're too good for the game.",
+			"boxState": "normal",
+			"speed": 0.05
+		},
+        {
+			"portrait": "dave",
+			"expression": "normal",
+			"text": "How about one more song before you go to the next week?",
+			"boxState": "normal",
+			"speed": 0.05
+		},
+        {
+			"portrait": "bf",
+			"expression": "normal",
+			"text": "Ok I guess.",
+			"boxState": "normal",
+			"speed": 0.05
+		},
+        {
+			"portrait": "dave",
+			"expression": "excited",
+			"text": "Excellent!",
+			"boxState": "normal",
+			"speed": 0.05
+		}
+	]
+}

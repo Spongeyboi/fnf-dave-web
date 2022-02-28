@@ -1,0 +1,25 @@
+{
+	"songs": [
+		["mansion", "dave", [146, 113, 253]],
+		["banger", "dave", [146, 113, 253]],
+		["treacherous", "dumbass-dave", [146, 113, 253]],
+		["house", "dave", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		"bf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Extras",
+	"weekBefore": "tutorial",
+	"weekName": "Week 7",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	
+	"difficulties": ["hard"]
+}
